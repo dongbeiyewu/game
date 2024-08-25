@@ -1,0 +1,8 @@
+# 忽略虚拟环境文件夹
+Lib/
+game/Lib/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv
